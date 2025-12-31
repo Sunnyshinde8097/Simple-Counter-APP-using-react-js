@@ -13,7 +13,7 @@ A simple and interactive Counter App built using **React.js**. This project demo
 
 ## 🖼️ UI Preview
 
-![Counter App Screenshot](./public/ScreenShot.jpg)
+![Counter App Screenshot](./public/ScreenShot.png)
 
 ## 📦 Technologies Used
 
