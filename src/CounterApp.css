@@ -1,0 +1,62 @@
+/* Container styling */
+.counter-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Heading */
+  .counter-container h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Count display */
+  .counter-container h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #0078d7;
+  }
+  
+  /* Button group */
+  .button-group {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  /* Common button styles */
+  .btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Specific button colors */
+  .increment {
+    background-color: #28a745;
+    color: white;
+  }
+  .increment:hover {
+    background-color: #218838;
+  }
+  
+  .decrement {
+    background-color: #dc3545;
+    color: white;
+  }
+  .decrement:hover {
+    background-color: #c82333;
+  }
+  
+  .reset {
+    background-color: #ffc107;
+    color: black;
+  }
+  .reset:hover {
+    background-color: #e0a800;
+  }
+  
